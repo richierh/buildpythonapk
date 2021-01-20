@@ -38,7 +38,7 @@ version = 0.1
 # comma separated e.g. requirements = sqlite3,kivy
 requirements = android,kivy,libiconv,libzbar,Pillow,python3,pyzbar,xcamera,
                https://github.com/kivymd/KivyMD/archive/b70abb5.zip,
-               kivy-garden.qrcode,zbarcam
+               kivy-garden.qrcode,zbarcam,qrcode==6.1
 
 # (str) Custom source folders for requirements
 # Sets custom source for any requirements with recipes
