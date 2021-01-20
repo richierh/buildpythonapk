@@ -44,5 +44,5 @@ class DemoApp(MDApp):
     
 if __name__ == '__main__':
     Window.show_cursor = True
-    Window.size = (360, 680)
+    #Window.size = (360, 680)
     DemoApp().run()
